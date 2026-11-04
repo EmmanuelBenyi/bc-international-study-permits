@@ -1,0 +1,10 @@
+# Downloaded IRCC source files (re-downloaded by analysis.py on first run).
+*.csv
+!data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
